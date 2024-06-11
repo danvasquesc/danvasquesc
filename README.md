@@ -1,21 +1,14 @@
 # Olá Mundo, eu sou o Dan! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-https://tenor.com/pt-BR/view/elmer-sheep-thumbs-up-like-approved-gif-7569635 
-
-- 📑 Atualmente sou professor do Estado de São Paulo. Trabalho com Apoio à Tecnologia e Inovação para alunos e leciono a disciplina de Sociologia.
+- 📑 Tenho 23 anos e atualmente sou professor do Estado de São Paulo. Trabalho com Apoio à Tecnologia e Inovação para alunos e leciono a disciplina de Sociologia.
 - 📔 Sou formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP | Campus de Marília - SP.
 - 📚 **Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade de Marília - UNIMAR.**
-
-<div class="tenor-gif-embed"data-postid="23328185"data-share-method="host"data-aspect-ratio="1.06667"data-width="100%"><ahref="https://tenor.com/view/computer-nerd-typing-meme-gif-23328185">ComputerNerdGIF</a>from<ahref="https://tenor.com/search/computer-gifs">ComputerGIFs</a></div><scripttype="text/javascript"asyncsrc="https://tenor.com/embed.js"></script>
-
-
-- 😄 Possuo 23 anos, e me sinto muito feliz em já possuir um diploma em uma universidade publica, e ter a possibilidade de estar na minha segunda graduação, mesmo sendo tão novo.
 - ⚡ Atualmente estou em transição de carreira, buscando na Tecnologia o sentido que tanto procuro para completa realização pessoal.
+  
 
-- 👾 Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que aprendi e estou aprendendo.
-
-<div class="tenor-gif-embed" data-postid="7569635" data-share-method="host" data-aspect-ratio="1.28" data-width="100%"><a href="https://tenor.com/view/elmer-sheep-thumbs-up-like-approved-gif-7569635">Elmer Sheep GIF</a>from <a href="https://tenor.com/search/elmer-gifs">Elmer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+- 👾 Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que está aprendendo.
+- 
 
 ### Para contato:
 
