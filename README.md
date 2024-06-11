@@ -8,7 +8,7 @@
 - 📔 Sou formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP | Campus de Marília - SP.
 - 📚 **Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade de Marília - UNIMAR.**
 
-<div class="tenor-gif-embed" data-postid="23328185" data-share-method="host" data-aspect-ratio="1.06667" data-width="100%"><a href="https://tenor.com/view/computer-nerd-typing-meme-gif-23328185">Computer Nerd GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed"data-postid="23328185"data-share-method="host"data-aspect-ratio="1.06667"data-width="100%"><ahref="https://tenor.com/view/computer-nerd-typing-meme-gif-23328185">ComputerNerdGIF</a>from<ahref="https://tenor.com/search/computer-gifs">ComputerGIFs</a></div><scripttype="text/javascript"asyncsrc="https://tenor.com/embed.js"></script>
 
 
 - 😄 Possuo 23 anos, e me sinto muito feliz em já possuir um diploma em uma universidade publica, e ter a possibilidade de estar na minha segunda graduação, mesmo sendo tão novo.
