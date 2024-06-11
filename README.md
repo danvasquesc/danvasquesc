@@ -1,8 +1,7 @@
 # Olá Mundo, eu sou o Dan! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-<div class="tenor-gif-embed" data-postid="7964192757336767793" data-share-method="host" data-aspect-ratio="1.5" data-width="100%"><a href="https://tenor.com/view/finding-nemo-darla-glass-tap-hello-gif-7964192757336767793">Finding Nemo Darla GIF</a>from <a href="https://tenor.com/search/finding+nemo-gifs">Finding Nemo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+https://tenor.com/pt-BR/view/elmer-sheep-thumbs-up-like-approved-gif-7569635 
 
 - 📑 Atualmente sou professor do Estado de São Paulo. Trabalho com Apoio à Tecnologia e Inovação para alunos e leciono a disciplina de Sociologia.
 - 📔 Sou formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP | Campus de Marília - SP.
