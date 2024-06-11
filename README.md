@@ -8,7 +8,7 @@
   
 
 - 👾 Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que está aprendendo.
-- 
+
 
 ### Para contato:
 
