@@ -10,13 +10,19 @@
 - 👾 Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que está aprendendo.
 
 
-### Para contato:
+
+## Contatos:
 
 <div>
-  <a href="https://www.linkedin.com/in/dan-vasques-carvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-    <a href="dan.vasques@outlook.com.br">Enviar e-mail</a>
+
+
+
+<a href = "mailto:dan.vasques@outlook.com.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dan-vasques-carvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
+
 
 
 ### Feito por [Dan!](https://github.com/danvasquesc) ✨
