@@ -2,13 +2,17 @@
 
 <p align="center">
   <a href="https://github.com/danvasquesc/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Estágio%20em%20Full-stack;Desenvolvimento%20Web;%20Análise%20de%20Dados&font=Fira%20Sans&center=true&width=440&height=45&color=FF4500&vCenter=true&pause=995&size=30" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aprimorando%20para%20Estágio%20em:;Full-       stack;Desenvolvimento%20Web;%20Análise%20de%20Dados&font=Segoe%20UI&center=true&width=500&height=45&color=FF4500&vCenter=true&pause=550&size=30"/></a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FD7E14/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:dan.vasques@outlook.com.br"><img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FD7E14/ms-outlook.png" alt="ms-outlook"/>
+</p>
 
+<br>
 
-# Olá Mundo, eu sou o Dan! 
-## Bem vindo ao meu perfil GitHub 👋
+## Olá Mundo, eu sou o Dan!👋
 
 - 📑 Tenho 23 anos e mesmo com pouca idade já sou professor do Estado de São Paulo, trabalhando com Apoio à Tecnologia e Inovação para alunos e professores.
 - 📔 Sou formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP | Campus de Marília - SP.
@@ -16,20 +20,37 @@
 - ⚡ Atualmente estou em transição de carreira, buscando na Tecnologia o sentido que tanto procuro para completa realização pessoal.
 - 👾 Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que está aprendendo.
 
-
+<br>
 
 <div style="display: flex;">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=danvasquesc&show_icons=true&theme=codeSTACKr">
 </div>
 
+<br>
 
+## 🏆 Troféu Perfil GitHub
 
-## Contatos:
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=danvasquesc&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+  </a>
+</p>
 
-<div>
-  <a href="https://www.linkedin.com/in/dan-vasques-carvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>   
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+
 
 
 ### Feito por [Dan!](https://github.com/danvasquesc) ✨
