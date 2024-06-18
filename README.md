@@ -7,12 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/">
-    <img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FD7E14/linkedin.png" alt="linkedin"/>
-  </a>
-      <a href="mailto:dan.vasques@outlook.com.br">
-        <img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FD7E14/ms-outlook.png" alt="ms-outlook"/>
-      </a>
+  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FD7E14/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:dan.vasques@outlook.com.br"><img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FD7E14/ms-outlook.png" alt="ms-outlook"/></a>
 </p>
 
 <br>
@@ -27,18 +23,14 @@
 
 <br>
 
-<div style="display: flex;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=danvasquesc&show_icons=true&theme=codeSTACKr">
-</div>
+<div style="display: flex;"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=danvasquesc&show_icons=true&theme=codeSTACKr"></div>
 
 <br>
 
 ## 🏆 Troféu Perfil GitHub
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="700" src="https://github-profile-trophy.vercel.app/?username=danvasquesc&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="700" src="https://github-profile-trophy.vercel.app/?username=danvasquesc&column=8&theme=darkhub&no-frame=true&no-bg=true"/></a>
 </p>
 
 ---
@@ -48,8 +40,7 @@
 </div>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/danvasquesc/count.svg" alt="Número de visitantes no perfil"
-  />
+  <img src="https://profile-counter.glitch.me/danvasquesc/count.svg" alt="Número de visitantes no perfil"/>
 </p>
 
 <br>
