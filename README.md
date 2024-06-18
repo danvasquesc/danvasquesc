@@ -1,5 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=80&section=header"/>
 
+<p align="center">
+  <a href="https://github.com/danvasquesc/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Estágio%20em%20Full-stack;Desenvolvimento%20Web;%20Análise%20de%20Dados&font=Fira%20Sans&center=true&width=440&height=45&color=FF4500&vCenter=true&pause=995&size=30" /></a>
+</p>
 
 
 
@@ -14,8 +18,9 @@
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?danvasquesc=anuraghazra&show_icons=true&theme=shadow_red)
+<div style="display: flex;">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=danvasquesc&show_icons=true&theme=codeSTACKr">
+</div>
 
 
 
@@ -29,6 +34,8 @@
 
 ### Feito por [Dan!](https://github.com/danvasquesc) ✨
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=80&section=footer"/>
 <!---
 danvasquesc/danvasquesc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
