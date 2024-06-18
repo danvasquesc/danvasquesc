@@ -17,10 +17,11 @@
 
 
 
-<a href = "mailto:danivasquesc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:dan.vasques@outlook.co.br?subject=Informa%C3%A7%C3%B5es%20do%20cliente&amp;" target="_blank"><img loading="lazy" src=""    ></a>
 <a href="https://www.linkedin.com/in/dan-vasques-carvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+![image](https://github.com/danvasquesc/danvasquesc/assets/169933826/6924fa98-4213-489b-935f-550ef3b40848)
 
 
 
