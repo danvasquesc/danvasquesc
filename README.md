@@ -1,7 +1,7 @@
 # Olá Mundo, eu sou o Dan! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 📑 Tenho 23 anos e mesmo com pouco idade já sou professor do Estado de São Paulo, trabalhando com Apoio à Tecnologia e Inovação para alunos e professores.
+- 📑 Tenho 23 anos e mesmo com pouca idade já sou professor do Estado de São Paulo, trabalhando com Apoio à Tecnologia e Inovação para alunos e professores.
 - 📔 Sou formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP | Campus de Marília - SP.
 - 📚 **Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade de Marília - UNIMAR.**
 - ⚡ Atualmente estou em transição de carreira, buscando na Tecnologia o sentido que tanto procuro para completa realização pessoal.
