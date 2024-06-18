@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=header"/>
+
+
+
+
 # Olá Mundo, eu sou o Dan! 
 ## Bem vindo ao meu perfil GitHub 👋
 
@@ -6,6 +11,11 @@
 - 📚 **Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade de Marília - UNIMAR.**
 - ⚡ Atualmente estou em transição de carreira, buscando na Tecnologia o sentido que tanto procuro para completa realização pessoal.
 - 👾 Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que está aprendendo.
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_red)
 
 
 
