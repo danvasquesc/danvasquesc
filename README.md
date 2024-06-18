@@ -1,7 +1,7 @@
 # Olá Mundo, eu sou o Dan! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 📑 Tenho 23 anos e atualmente sou professor do Estado de São Paulo. Trabalho com Apoio à Tecnologia e Inovação para alunos e leciono a disciplina de Sociologia.
+- 📑 Tenho 23 anos e mesmo com pouco idade já sou professor do Estado de São Paulo, trabalhando com Apoio à Tecnologia e Inovação para alunos e professores.
 - 📔 Sou formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP | Campus de Marília - SP.
 - 📚 **Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade de Marília - UNIMAR.**
 - ⚡ Atualmente estou em transição de carreira, buscando na Tecnologia o sentido que tanto procuro para completa realização pessoal.
@@ -13,7 +13,8 @@
 ### Para contato:
 
 <div>
-<a href="https://www.linkedin.com/in/dan-vasques-carvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/dan-vasques-carvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
 </div>
 
 
