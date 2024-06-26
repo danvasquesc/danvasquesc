@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/danvasquesc/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aprimorando%20para%20Estágio%20em:;Full-     stack;Desenvolvimento%20Web;%20Análise%20de%20Dados&font=Segoe%20UI&center=true&width=500&height=45&color=FF4500&vCenter=true&pause=550&size=30"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aprimorando%20conhecimento%20em:;Full-     stack;Desenvolvimento%20Web;%20Análise%20de%20Dados&font=Segoe%20UI&center=true&width=500&height=45&color=FF4500&vCenter=true&pause=550&size=30"/>
   </a>
 </p>
 
