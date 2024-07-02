@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/danvasquesc/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aprimorando%20conhecimento%20em:;Full-     stack;Desenvolvimento%20Web;%20Análise%20de%20Dados&font=Segoe%20UI&center=true&width=500&height=45&color=FF4500&vCenter=true&pause=550&size=30"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Estudando%20para;Full-stack;Análise%20de%20Dados&font=Segoe%20UI&center=true&width=500&height=45&color=FF4500&vCenter=true&pause=550&size=30"/>
   </a>
 </p>
 
@@ -15,33 +15,15 @@
 
 ## Olá Mundo, eu sou o Dan!👋
 
+- 📚 **Cursando Análise e Desenvolvimento de Sistemas pela Universidade de Marília - UNIMAR.**
 - 📑 Tenho 23 anos e mesmo com pouca idade já sou professor do Estado de São Paulo, trabalhando com Apoio à Tecnologia e Inovação para alunos e professores.
-- 📔 Sou formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP | Campus de Marília - SP.
-- 📚 **Estou cursando Análise e Desenvolvimento de Sistemas pela Universidade de Marília - UNIMAR.**
+- 📔 Formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP | Campus de Marília - SP.
 - ⚡ Atualmente estou em transição de carreira, buscando na Tecnologia o sentido que tanto procuro para completa realização pessoal.
 - 👾 Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que está aprendendo.
 
 <br>
 
 <div style="display: flex;"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=danvasquesc&show_icons=true&theme=codeSTACKr"></div>
-
-<br>
-
-## 🏆 Troféu Perfil GitHub
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="700" src="https://github-profile-trophy.vercel.app/?username=danvasquesc&column=8&theme=darkhub&no-frame=true&no-bg=true"/></a>
-</p>
-
----
-
-<div align="center">
-  <h3><b>📍 Contagem de visitantes do perfil</b></h3>
-</div>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/danvasquesc/count.svg" alt="Número de visitantes no perfil"/>
-</p>
 
 <br>
 
