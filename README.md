@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/danvasquesc/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Estudando%20para;Full-stack;Análise%20de%20Dados&font=Segoe%20UI&center=true&width=300&height=40&color=FF4500&vCenter=true&pause=550&size=30"/>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Estudando%20para;Full-Stack%20Java&font=Segoe%20UI&center=true&width=300&height=40&color=FF4500&vCenter=true&pause=550&size=30"/>
   </a>
 </p>
 
