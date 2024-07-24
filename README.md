@@ -1,15 +1,28 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=60&section=header"/>
 
-<p align="center">
-  <a href="https://github.com/danvasquesc/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Estudando%20para;Full-Stack%20Java&font=Segoe%20UI&center=true&width=300&height=40&color=FF4500&vCenter=true&pause=550&size=30"/>
-  </a>
-</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FD7E14/linkedin.png" alt="linkedin"/></a>
-  <a href="mailto:dan.vasques@outlook.com.br"><img width="35" height="35" src="https://img.icons8.com/ios-filled/50/FD7E14/ms-outlook.png" alt="ms-outlook"/></a>
+  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Dan%20Vasques-FF4500?style=flat-square&logo=Linkedin&logoColor=white"/</a>
+    <a href="mailto:dan.vasques@outlook.com.br"><img width="35" height="35" src=/></a>
 </p>
+
+
+http://img.shields.io/badge/-dan.vasques@outlook.com.br-FF4500?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](ma
+
+"https://img.icons8.com/ios-filled/50/FD7E14/ms-outlook.png"
+
+http://img.shields.io/badge/-Dan%20Vasques-FF4500?style=flat-square&logo=Outlook&logoColor=white"
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+
 
 <br>
 
@@ -25,12 +38,25 @@
 
 ## 🛠️ Projetos
 
-| Prioridade |    Projetos                     | Linguagens e/ou Ferramentas |
-|   :---:    |     :---                        |          :---               |
-|    1º      | [Landing Page para envio de atividades escolares](https://github.com/danvasquesc/landingpage-envio-de-atividades/) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-|    2º      | [Zero a Programação da Rocketseat](https://github.com/danvasquesc/zero-a-programacao-rocketseat) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Front-end Editor](https://img.shields.io/badge/Front_end_Editor-6eff51?style=for-the-badge&logo=front%20end%20editor&logoColor=white) |
-|    3º      | [Exercícios Resolvidos - Algoritmo e Lógica](https://github.com/danvasquesc/exercicios-algoritmo) | ![Visualg](https://img.shields.io/badge/Visualg_2.5-d3d3d3?style=for-the-badge&logo=front%20end%20editor&logoColor=white)    |
-|    4º      | [Exercícios Resolvidos - Curso em Vídeo (Algoritmo)](https://github.com/danvasquesc/algoritmos-curso_em_video)     | ![Visualg](https://img.shields.io/badge/Visualg_2.5-d3d3d3?style=for-the-badge&logo=front%20end%20editor&logoColor=white) |
+| Prioridade |    Projetos                                             | Linguagens e/ou Ferramentas                  |
+|   :---:    |     :---                                                |          :---                                |
+|    1º      | [Landing Page para envio de atividades escolares][1]    | ![HTML5][2] ![CSS][3] ![VS Code][4]          |
+|    2º      | [Zero a Programação da Rocketseat][5]                   | ![HTML5][2] ![CSS][3] ![Front-end Editor][6] |
+|    3º      | [Exercícios Resolvidos - Curso em Vídeo (Algoritmo)][7] | ![Visualg][8]                                |
+|    4º      | [Exercícios Resolvidos - Algoritmo e Lógica][9]         | ![Visualg][8]                                |
+
+
+[1]: https://github.com/danvasquesc/landingpage-envio-de-atividades/
+[2]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[3]: https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[4]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[5]: https://github.com/danvasquesc/zero-a-programacao-rocketseat
+[6]: https://img.shields.io/badge/Front_end_Editor-6eff51?style=for-the-badge&logo=front%20end%20editor&logoColor=white
+[7]: https://github.com/danvasquesc/algoritmos-curso_em_video
+[8]: https://img.shields.io/badge/Visualg_2.5-d3d3d3?style=for-the-badge&logo=front%20end%20editor&logoColor=white
+[9]: https://github.com/danvasquesc/exercicios-algoritmo
+
+
 
 <br>
 
@@ -41,7 +67,22 @@
 #### Feito por [Dan!](https://github.com/danvasquesc) ✨
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=60&section=footer"/>
-<!---
-danvasquesc/danvasquesc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/danvasquesc/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Estudando%20para;Full-Stack%20Java&font=Segoe%20UI&center=true&width=300&height=40&color=FF4500&vCenter=true&pause=550&size=30"/>
+  </a>
+</p>
+
+
+
+                      
+
