@@ -2,28 +2,15 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Dan%20Vasques-FF4500?style=flat-square&logo=Linkedin&logoColor=white"/</a>
-    <a href="mailto:dan.vasques@outlook.com.br"><img width="35" height="35" src=/></a>
+  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Dan%20Vasques-FF4500?style=flat-square&logo=Linkedin&logoColor=white"</a>
+    <a href="mailto:dan.vasques@outlook.com.br"><img src="http://img.shields.io/badge/-dan.vasques@outlook.com.br-FF4500?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
-
-
-http://img.shields.io/badge/-dan.vasques@outlook.com.br-FF4500?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](ma
-
-"https://img.icons8.com/ios-filled/50/FD7E14/ms-outlook.png"
-
-http://img.shields.io/badge/-Dan%20Vasques-FF4500?style=flat-square&logo=Outlook&logoColor=white"
                                                                 
                                                                 
                                                                 
                                                                 
                                                                 
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-
-
+                                                  
 <br>
 
 # Olá Mundo, eu sou o Dan!👋
