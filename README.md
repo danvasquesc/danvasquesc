@@ -1,19 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=60&section=header"/>
+## Aprendiz em Desenvolvimento Java Web Full-Stack
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Dan%20Vasques-FF4500?style=flat-square&logo=Linkedin&logoColor=white"</a>
-    <a href="mailto:dan.vasques@outlook.com.br"><img src="http://img.shields.io/badge/-dan.vasques@outlook.com.br-FF4500?style=flat-square&logo=Gmail&logoColor=white"></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Dan%20Vasques-FF4500?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="mailto:dan.vasques@outlook.com.br"><img src="http://img.shields.io/badge/-dan.vasques@outlook.com.br-FF4500?style=flat-square&logo=Gmail&logoColor=white">
+    </a>
 </p>
-                                                                
-                                                                
-                                                                
-                                                                
-                                                                
-                                                  
-<br>
 
-# Olá Mundo, eu sou o Dan!👋
+<img src="/assets/image/image/cat_desk.svg">
+
+
 
 - Cursando Análise e Desenvolvimento de Sistemas pela Universidade de Marília - UNIMAR.
 - Tenho 23 anos e mesmo com pouca idade sou professor do Estado de São Paulo, trabalhando com Apoio à Tecnologia e Inovação para alunos e professores.
@@ -55,6 +50,11 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=60&section=footer"/>
 
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=60&section=header"/>
 
 
 
