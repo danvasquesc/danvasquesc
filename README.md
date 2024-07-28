@@ -17,7 +17,7 @@
 
 <br>
 
-### 🛠️ Projetos
+### Projetos
 
 | Prioridade |    Projetos                                             | Linguagens e/ou Ferramentas                  |
 |   :---:    |     :---                                                |          :---                                |
