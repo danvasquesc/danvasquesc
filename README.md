@@ -1,4 +1,4 @@
-# Aprendiz em Desenvolvimento Full-Stack em Java Web
+## Aprendiz em Desenvolvimento Full-Stack em Java Web
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Dan%20Vasques-FF4500?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -6,7 +6,7 @@
     </a>
 </p>
 
-<img src="/assets/image/image/cat_desk.svg">
+<img src="/assets/image/image/cat (851 x 200 px).svg">
 
 
 
