@@ -8,17 +8,16 @@
 
 <img src="/assets/image/image/cat (851 x 200 px).svg">
 
+### Sobre mim
 
-
-- Cursando Análise e Desenvolvimento de Sistemas pela Universidade de Marília - UNIMAR.
-- Tenho 23 anos e mesmo com pouca idade sou professor do Estado de São Paulo, trabalhando com Apoio à Tecnologia e Inovação para alunos e professores.
-- Formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP | Campus de Marília - SP.
-- Atualmente estou em transição de carreira, buscando na Tecnologia o sentido que tanto procuro para completa realização pessoal.
-- Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que está aprendendo.
+- ✏️ Cursando **Análise e Desenvolvimento de Sistemas** pela Universidade de Marília - UNIMAR.
+- 💻 Professor de Apoio à Tecnologia e Inovação pelo Estado de São Paulo.
+- 🎓 Formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP.
+- ✨ Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que está aprendendo.
 
 <br>
 
-## 🛠️ Projetos
+### 🛠️ Projetos
 
 | Prioridade |    Projetos                                             | Linguagens e/ou Ferramentas                  |
 |   :---:    |     :---                                                |          :---                                |
@@ -38,8 +37,6 @@
 [8]: https://img.shields.io/badge/Visualg_2.5-d3d3d3?style=for-the-badge&logo=front%20end%20editor&logoColor=white
 [9]: https://github.com/danvasquesc/exercicios-algoritmo
 
-
-
 <br>
 
 <div style="display: flex;"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=danvasquesc&show_icons=true&theme=codeSTACKr"></div>
@@ -47,29 +44,3 @@
 <br>
 
 #### Feito por [Dan!](https://github.com/danvasquesc) ✨
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=60&section=footer"/>
-
-
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=60&section=header"/>
-
-
-
-
-
-
-
-
-<p align="center">
-  <a href="https://github.com/danvasquesc/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Estudando%20para;Full-Stack%20Java&font=Segoe%20UI&center=true&width=300&height=40&color=FF4500&vCenter=true&pause=550&size=30"/>
-  </a>
-</p>
-
-
-
-                      
-
