@@ -11,6 +11,7 @@
 ### Sobre mim
 
 - ✏️ Cursando **Análise e Desenvolvimento de Sistemas** pela Universidade de Marília - UNIMAR.
+- ✏️ Em Formação Java Web Full-Stack e Spring Boot REST API - JDEV Treinamento.
 - 💻 Professor de Apoio à Tecnologia e Inovação pelo Estado de São Paulo.
 - 🎓 Formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP.
 - ✨ Nesta página você encontrará um iniciante extremamente organizado e focado, com o princípio de compartilhar tudo que está aprendendo.
