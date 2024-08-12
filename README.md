@@ -40,6 +40,12 @@
 
 <br>
 
+<a href="https://github.com/danvasquesc/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvasquesc&layout=compact&langs_count=8&card_width=320&theme=dracula&line_height=10&card_width=290&count_private=true&show_icons=true&border_radius=3&count_private=true&hide=html" />
+</a>
+
+<br>
+
 <div style="display: flex;"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=danvasquesc&show_icons=true&theme=codeSTACKr"></div>
 
 <br>
