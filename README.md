@@ -18,7 +18,7 @@
 
 <br>
 
-### Projetos
+### Principais Projetos
 
 | Prioridade |    Projetos                                               | Linguagens e/ou Ferramentas                  |
 |   :---:    |     :---                                                  |          :---                                |
