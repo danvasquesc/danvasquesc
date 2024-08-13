@@ -20,23 +20,20 @@
 
 ### Projetos
 
-| Prioridade |    Projetos                                             | Linguagens e/ou Ferramentas                  |
-|   :---:    |     :---                                                |          :---                                |
-|    1º      | [Landing Page para envio de atividades escolares][1]    | ![HTML5][2] ![CSS][3] ![VS Code][4]          |
-|    2º      | [Zero a Programação da Rocketseat][5]                   | ![HTML5][2] ![CSS][3] ![Front-end Editor][6] |
-|    3º      | [Exercícios Resolvidos - Curso em Vídeo (Algoritmo)][7] | ![Visualg][8]                                |
-|    4º      | [Exercícios Resolvidos - Algoritmo e Lógica][9]         | ![Visualg][8]                                |
+| Prioridade |    Projetos                                               | Linguagens e/ou Ferramentas                  |
+|   :---:    |     :---                                                  |          :---                                |
+|    1º      | [Projeto Envio de Atividades][1]                          | ![HTML5][2] ![CSS][3] ![VS Code][4]          |
+|    2º      | [Zero a Programação da Rocketseat][5]                     | ![HTML5][2] ![CSS][3] ![Front-end Editor][6] |
+|    3º      | [Exercícios de Algoritmos Resolvidos - Curso em Vídeo][7] | ![Visualg][8]                                |
 
-
-[1]: https://github.com/danvasquesc/landingpage-envio-de-atividades/
+[1]: https://github.com/danvasquesc/projeto-envio-de-atividades
 [2]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [3]: https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[4]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[4]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge
 [5]: https://github.com/danvasquesc/zero-a-programacao-rocketseat
 [6]: https://img.shields.io/badge/Front_end_Editor-6eff51?style=for-the-badge&logo=front%20end%20editor&logoColor=white
 [7]: https://github.com/danvasquesc/algoritmos-curso_em_video
 [8]: https://img.shields.io/badge/Visualg_2.5-d3d3d3?style=for-the-badge&logo=front%20end%20editor&logoColor=white
-[9]: https://github.com/danvasquesc/exercicios-algoritmo
 
 <br>
 
