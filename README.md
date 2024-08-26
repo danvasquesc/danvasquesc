@@ -22,7 +22,7 @@
 
 | Prioridade |    Projetos                                               | Linguagens e/ou Ferramentas                  |
 |   :---:    |     :---                                                  |          :---                                |
-|    1º      | [Projeto Envio de Atividades][1]                          | ![HTML5][2] ![CSS][3] ![VS Code][4]          |
+|    1º      | [Projeto Envio de Atividades Escolares][1]                | ![HTML5][2] ![CSS][3] ![VS Code][4]          |
 |    2º      | [Zero a Programação da Rocketseat][5]                     | ![HTML5][2] ![CSS][3] ![Front-end Editor][6] |
 |    3º      | [Exercícios de Algoritmos Resolvidos - Curso em Vídeo][7] | ![Visualg][8]                                |
 
