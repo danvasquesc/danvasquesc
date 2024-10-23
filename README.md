@@ -6,7 +6,7 @@
         <a href="https://lattes.cnpq.br/5446511194990167"><img src="http://img.shields.io/badge/-Curriculo%20Lattes-FF4500?style=flat-square&logo=Curriculo-Lattes&logoColor=white"></a>
 </p>
 
-<img src="/assets/image/image/cat (851 x 200 px).svg">
+<img src="assets/image/image/logo-dan.svg" width="100%">
 
 ### Sobre mim
 - ✏️ Cursando **Análise e Desenvolvimento de Sistemas** pela Universidade de Marília - UNIMAR.
