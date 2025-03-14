@@ -1,27 +1,25 @@
 <p align="left">  
-  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Dan%20Vasques-FF4500?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Meu%20Linkedin-FF4500?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="mailto:dan.vasques@outlook.com.br"><img src="http://img.shields.io/badge/-dan.vasques@outlook.com.br-FF4500?style=flat-square&logo=Outlook&logoColor=white"></a>
-        <a href="https://lattes.cnpq.br/5446511194990167"><img src="http://img.shields.io/badge/-Curriculo%20Lattes-FF4500?style=flat-square&logo=Curriculo-Lattes&logoColor=white"></a>
+        <a href="https://lattes.cnpq.br/5446511194990167"><img src="http://img.shields.io/badge/-Meu%20Lattes-FF4500?style=flat-square&logo=Curriculo-Lattes&logoColor=white"></a>
 </p>
 
 <img src="assets/image/image/dan-logo-github.svg" width="100%">
 
 ### Sobre mim
-- ✏️ Cursando **Análise e Desenvolvimento de Sistemas** pela Universidade de Marília - UNIMAR.
-- ✏️ Em Formação Java Web Full-Stack e Spring Boot REST API - JDEV Treinamento.
-- 💻 Professor de Apoio à Tecnologia e Inovação pelo Estado de São Paulo.
-- 🎓 Formado em Ciências Sociais pela Universidade Estadual Paulista - UNESP.
+
+👋 Olá! Sou Dan Vasques, um entusiasta da tecnologia em transição para a área de desenvolvimento de software. Atualmente, atuo como Analista de Tecnologias Educacionais na Secretaria da Educação do Estado de São Paulo, onde trabalho com suporte técnico, manutenção de hardware e implementação de sistemas educacionais. Minha experiência como Professor me proporcionou habilidades essenciais em comunicação, resolução de problemas e organização, que agora aplico no desenvolvimento de soluções tecnológicas.
 
 <br>
 
 ### Principais Projetos
-| Prioridade |    Projetos                                               | Linguagens e/ou Ferramentas                    |
-|   :---:    |     :---                                                  |          :---                                  |
-|    1º      | [Projeto Envio de Atividades Escolares][1]                | ![HTML5][3] ![CSS][4] ![VS Code][5]            |
-|    2º      | [Projeto Minha Link-Bio][2]                               | ![HTML5][3] ![CSS][4] ![VS Code][5] ![Git][6]  | 
+| Prioridade |    Projetos                                               | Linguagens e/ou Ferramentas           |
+|   :---:    |     :---                                                  |          :---                         |
+|    1º      | [Plataforma de Gestão de Atividades Escolares][1]         | ![HTML5][3] ![CSS][4] ![VS Code][5]   |
+|    2º      | [Exercícios em Java - Prática e Aprendizado][2]           | ![Java][10] ![Eclipse][11] ![Git][6]  | 
 
 [1]: https://github.com/danvasquesc/projeto-envio-de-atividades
-[2]: https://github.com/danvasquesc/link-bio
+[2]: https://github.com/danvasquesc/exercicios_udemy_java
 
 <br>
 
