@@ -4,7 +4,7 @@
         <a href="https://lattes.cnpq.br/5446511194990167"><img src="http://img.shields.io/badge/-Meu%20Lattes-FF4500?style=flat-square&logo=Curriculo-Lattes&logoColor=white"></a>
 </p>
 
-<img src="assets/image/image/dan-logo-github.svg" width="100%">
+<img src="assets/image/image/Banner-para-Linkedin.png" width="100%">
 
 ### Sobre mim
 
