@@ -8,17 +8,17 @@
 
 ### Sobre mim
 
-👋 Olá! Sou Dan Vasques, um entusiasta da tecnologia em transição para a área de desenvolvimento de software. Atualmente, atuo como Analista de Tecnologias Educacionais na Secretaria da Educação do Estado de São Paulo, onde trabalho com suporte técnico, manutenção de hardware e implementação de sistemas educacionais. Minha experiência como Professor me proporcionou habilidades essenciais em comunicação, resolução de problemas e organização, que agora aplico no desenvolvimento de soluções tecnológicas.
+👋 Olá! Sou Dan Vasques. Possuo experiência de mais de 2 anos como Analista de Tecnologias Educacionais e Professor, com atuação em suporte técnico e implementação de sistemas educacionais. Atualmente, direciono meu trabalho para o desenvolvimento de soluções com Java, HTML, CSS e Git, utilizando minha bagagem única para resolver problemas de forma eficiente. Minha trajetória como Analista de Tecnologias Educacionais e Professor me proporciona habilidades essenciais e um diferencial em resolução de problemas, comunicação clara e organização, que enriquecem minha atuação como desenvolvedor.
 
 <br>
 
 ### Principais Projetos
-| Prioridade |    Projetos                                               | Linguagens e/ou Ferramentas           |
-|   :---:    |     :---                                                  |          :---                         |
-|    1º      | [Plataforma de Gestão de Atividades Escolares][1]         | ![HTML5][3] ![CSS][4] ![VS Code][5]   |
-|    2º      | [Exercícios em Java - Prática e Aprendizado][2]           | ![Java][10] ![Eclipse][11] ![Git][6]  | 
+| Prioridade |    Projetos                                               | Linguagens e/ou Ferramentas                     |
+|   :---:    |     :---                                                  |          :---                                   |
+|    1º      | [Plataforma de Gestão de Atividades Escolares][1]         | ![HTML5][3] ![CSS][4] ![Git][6] ![VS Code][5]   |
+|    2º      | [Exercícios em Java - Prática e Aprendizado][2]           | ![Java][10] ![Eclipse][11] ![Git][6]            | 
 
-[1]: https://github.com/danvasquesc/projeto-envio-de-atividades
+[1]: https://github.com/danvasquesc/projeto-plataforma-atividades-escolares
 [2]: https://github.com/danvasquesc/exercicios_udemy_java
 
 <br>
