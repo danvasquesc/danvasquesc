@@ -9,7 +9,8 @@
 
 ### Sobre mim
 
-👋 Olá! Sou Dan Vasques. Possuo experiência de mais de 2 anos como Analista de Tecnologias Educacionais e Professor, com atuação em suporte técnico e implementação de sistemas educacionais. Atualmente, direciono meu trabalho para o desenvolvimento de soluções com Java, HTML, CSS e Git, utilizando minha bagagem única para resolver problemas de forma eficiente. Minha trajetória como Analista de Tecnologias Educacionais e Professor me proporciona habilidades essenciais e um diferencial em resolução de problemas, comunicação clara e organização, que enriquecem minha atuação como desenvolvedor.
+👋 Olá! Sou Dan Vasques. <br>
+Com 2+ anos de experiência em suporte técnico, ministração de treinamentos e docência, desenvolvi habilidades sólidas em resolução de problemas, comunicação eficiente, organização, profissionalismo, gestão de desafios e proatividade. Como Desenvolvedor Full Stack, aplico meus conhecimentos em Java, HTML, CSS e Git, mas com diferencial que vai além do código: a capacidade de transformar complexidade técnica em soluções intuitivas, acessíveis e eficientes, compreendendo que a tecnologia se faz com lógica, mas também com pessoas.
 
 <br>
 
