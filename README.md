@@ -17,8 +17,8 @@ Com 2+ anos de experiência profissional como Analista de Tecnologias Educaciona
 ### Principais Projetos
 | Prioridade |    Projetos                                               | Linguagens e/ou Ferramentas                     |
 |   :---:    |     :---                                                  |          :---                                   |
-|    1º      | [Plataforma de Gestão de Atividades Escolares][1]         | ![HTML5][3] ![CSS][4] ![Git][6] ![VS Code][5]   |
-|    2º      | [Exercícios em Java - Prática e Aprendizado][2]           | ![Java][10] ![Eclipse][11] ![Git][6]            | 
+|    1º      | [Exercícios em Java - Prática e Aprendizado][2]           | ![Java][10] ![Eclipse][11] ![Git][6]  |
+|    2º      | [Plataforma de Gestão de Atividades Escolares][1]         |  ![HTML5][3] ![CSS][4] ![Git][6] ![VS Code][5]         | 
 
 [1]: https://github.com/danvasquesc/projeto-plataforma-atividades-escolares
 [2]: https://github.com/danvasquesc/exercicios_udemy_java
