@@ -10,7 +10,7 @@
 ### Sobre mim
 
 👋 Olá! Sou Dan Vasques. <br>
-Com 2+ anos de experiência em suporte técnico, ministração de treinamentos e docência, desenvolvi habilidades sólidas em resolução de problemas, comunicação eficiente, organização, profissionalismo, gestão de desafios e proatividade. Como Desenvolvedor Full Stack, aplico meus conhecimentos em Java, HTML, CSS e Git, mas com diferencial que vai além do código: a capacidade de transformar complexidade técnica em soluções intuitivas, acessíveis e eficientes, compreendendo que a tecnologia se faz com lógica, mas também com pessoas.
+Com 2+ anos de experiência profissional como Analista de Tecnologias Educacionais e docência, atuando com suporte técnico, treinamentos e metodologias ativas, possuo competências sólidas em resolução de problemas, comunicação assertiva, proatividade, gestão de conflitos e organização. Como Desenvolvedor, possuo habilidades em Java e Git, com conhecimentos em HTML e CSS para interfaces front-end. Meu diferencial é unir capacidade técnica a maturidade profissional e uma visão humanizada, garantindo que a tecnologia seja acessível e útil para quem dela precisa.
 
 <br>
 
