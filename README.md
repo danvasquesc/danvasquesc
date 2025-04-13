@@ -2,10 +2,9 @@
   <a href="https://danvasquesc.github.io/portfolio-dan"><img src="http://img.shields.io/badge/-Portfólio-FF4500?style=flat-square&logo=Curriculo-Lattes&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Linkedin-FF4500?style=flat-square&logo=Linkedin&logoColor=white"></a>
       <a href="mailto:dan.vasques@outlook.com.br"><img src="http://img.shields.io/badge/-dan.vasques@outlook.com.br-FF4500?style=flat-square&logo=Outlook&logoColor=white"></a>
-        <a href="https://lattes.cnpq.br/5446511194990167"><img src="http://img.shields.io/badge/-Lattes-FF4500?style=flat-square&logo=Curriculo-Lattes&logoColor=white"></a>
 </p>
 
-<img src="assets/image/image/banner_apresentacao.png" width="100%">
+<img src="assets/image/image/fundo_linkedin (2).png" width="100%">
 
 ### Sobre mim
 
