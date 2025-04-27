@@ -1,12 +1,12 @@
 <p align="left">  
-  <a href="https://danvasquesc.github.io/portfolio-dan"><img src="http://img.shields.io/badge/-Portfólio-FF4500?style=flat-square&logo=Curriculo-Lattes&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/dan-vasques-carvalho/"><img src="http://img.shields.io/badge/-Linkedin-FF4500?style=flat-square&logo=Linkedin&logoColor=white"></a>
-      <a href="mailto:dan.vasques@outlook.com.br"><img src="http://img.shields.io/badge/-dan.vasques@outlook.com.br-FF4500?style=flat-square&logo=Outlook&logoColor=white"></a>
+    <a href="https://danvasquesc.github.io/portfolio-dan"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge"></a>
+    <a href="https://www.linkedin.com/in/dan-vasques-carvalho"><img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge"></a>
+    <a href="mailto:dan.vasques@outlook.com.br"><img src="https://img.shields.io/badge/-Email-FF4500?style=for-the-badge"></a>
 </p>
 
 <img src="assets/image/image/fundo_linkedin (2).png" width="100%">
 
-### Sobre mim
+## Sobre mim
 
 👋 Olá! Sou Dan Vasques. <br>
 Desenvolvedor Full Stack Java com perfil analítico, didático e orientado a resultados. Possuo conhecimento em Java,
@@ -19,35 +19,28 @@ colaborar com equipes de forma eficaz.
 
 <br>
 
-### Principais Projetos
-| Prioridade |    Projetos                                               | Linguagens e/ou Ferramentas                     |
-|   :---:    |     :---                                                  |          :---                                   |
-|    1º      | [Exercícios em Java - Prática e Aprendizado][2]           | ![Java][10] ![Eclipse][11] ![Git][6]  |
-|    2º      | [Plataforma de Gestão de Atividades Escolares][1]         |  ![HTML5][3] ![CSS][4] ![Git][6] ![VS Code][5]         | 
+## Principais Projetos
+| Prioridade |    Projetos                                       | Tecnologias                    |
+|   :---:    |     :---                                          |          :---                                   |
+|    1º      | [Prática e Aprendizado em Java][2]                | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)            |
+|    2º      | [Plataforma de Gestão de Atividades Escolares][1] |  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-7952B3?style=for-the-badge&logo=canva)  | 
 
 [1]: https://github.com/danvasquesc/projeto-plataforma-atividades-escolares
-[2]: https://github.com/danvasquesc/exercicios_udemy_java
+[2]: https://github.com/danvasquesc/exercicios_java
 
 <br>
 
-### Ferramentas que utilizo
+### Tecnologias que utilizo
 
-![Java][10]
-![Git][6]
-![Eclipse][11]
-![HTML5][3]
-![CSS3][4]
-![Visual Studio Code][5]
-![Notion][8]
-
-
-[3]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[4]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[5]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-[6]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[8]: https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
-[10]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-[11]: https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-7952B3?style=for-the-badge&logo=canva)
 
 <br>
 
