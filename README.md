@@ -44,8 +44,4 @@ colaborar com equipes de forma eficaz.
 
 <br>
 
-<div style="display: flex;"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=danvasquesc&show_icons=true&theme=codeSTACKr"></div>
-
-<br>
-
 #### Feito por [Dan!](https://github.com/danvasquesc) ✨
