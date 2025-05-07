@@ -9,13 +9,7 @@
 ## Sobre mim
 
 👋 Olá! Sou Dan Vasques. <br>
-Desenvolvedor Full Stack Java com perfil analítico, didático e orientado a resultados. Possuo conhecimento em Java,
-HTML5, CSS3 e Git, aliando boa base técnica com um diferencial sólido: 2+ anos atuando como Professor de Apoio à
-Tecnologia da Informação, área onde desenvolvi e conduzi treinamentos, suporte técnico e estratégias de
-transformação digital. Nesse contexto, alcancei 100% de operacionalidade digital e 91% de autonomia digital da
-equipe, por meio de soluções práticas, combinando conhecimento técnico com comunicação clara e foco em
-performance. Trago comigo a habilidade de aprender rápido, proatividade, resolver problemas com agilidade e
-colaborar com equipes de forma eficaz.
+Desenvolvedor Full Stack com perfil analítico, didático e orientado a resultados. Possuo conhecimento em Java, HTML5, CSS3 e Git, aliando boa base técnica com um diferencial sólido: 2+ anos atuando como Professor de Apoio à Tecnologia da Informação, área onde desenvolvi o domínio em suporte técnico, treinamentos e estratégias de transformação digital. Nesse contexto, alcancei 100% de operacionalidade digital e 91% de autonomia digital da equipe, combinando conhecimento técnico e comunicação assertiva. Trago comigo a habilidade de aprender rápido, proatividade, resolver problemas com agilidade e colaborar com equipes de forma eficaz.
 
 <br>
 
