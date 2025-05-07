@@ -4,7 +4,7 @@
     <a href="mailto:dan.vasques@outlook.com.br"><img src="https://img.shields.io/badge/-Email-FF4500?style=for-the-badge"></a>
 </p>
 
-<img src="assets/image/image/fundo_linkedin (2).png" width="100%">
+<img src="assets/image/image/fundo_.png" width="100%">
 
 ## Sobre mim
 
