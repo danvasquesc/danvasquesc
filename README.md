@@ -1,6 +1,7 @@
 <p align="left">  
     <a href="https://danvasquesc.github.io/portfolio-dan"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/dan-vasques-carvalho"><img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge"></a>
+    <a href="https://github.com/danvasquesc/portfolio-dan/blob/main/src/docs/DanVasques_Desenvolvedor_FullStack.pdf"><img src="https://img.shields.io/badge/Curriculo-FF4500?style=for-the-badge"></a>
     <a href="mailto:dan.vasques@outlook.com.br"><img src="https://img.shields.io/badge/-Email-FF4500?style=for-the-badge"></a>
 </p>
 
