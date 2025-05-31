@@ -5,16 +5,20 @@
     <a href="mailto:dan.vasques@outlook.com.br"><img src="https://img.shields.io/badge/-Email-FF4500?style=for-the-badge"></a>
 </p>
 
-<img src="./assets/image/image/fundo_linkedin.jpg" width="100%">
+<img src="./assets/image/image/fundo.jpg" width="100%">
 
 ## Sobre mim
 
 👋 Olá! Sou Dan Vasques. <br>
-Desenvolvedor Full Stack com perfil analítico, didático e orientado a resultados. Possuo conhecimento em Java,
-HTML5, CSS3 e Git, aliando boa base técnica com um diferencial sólido: 2+ anos atuando como Professor de Apoio
-à Tecnologia da Informação, área onde desenvolvi habilidades em suporte técnico, treinamentos e estratégias de
-transformação digital. Nesse contexto, alcancei 100% de operacionalidade digital e 91% de autonomia digital da
-equipe, combinando conhecimento técnico e comunicação assertiva.
+Desenvolvedor Back-End, com foco em Java, Spring Boot e Git. <br>
+Atuo há quase três anos como Professor de Apoio à Tecnologia da Informação, com foco em suporte técnico em TI, infraestrutura, manutenção de equipamentos, gestão de sistemas escolares e capacitação de usuários.
+<br>
+
+Obtive resultados técnicos expressivos que destacaram-me, como: 100% de operacionalidade nas aplicações das Provas Paulistas, realizadas bimestralmente, com gerenciamento completo do ambiente, rede e contingências. Também conquistei 91% de autonomia digital da equipe escolar, por meio de treinamentos desenvolvidos para professores e alunos sobre ferramentas como Google Workspace, Windows, Microsoft Office e sistemas educacionais.
+<br>
+
+Essas experiências reforçaram minha capacidade de análise, documentação, resolução de problemas
+e trabalho em equipe em ambientes com alta demanda tecnológica.
 
 <br>
 
