@@ -9,8 +9,13 @@ Atuo há quase três anos como Professor de Apoio à Tecnologia da Informação,
 <br>
 
 Obtive resultados técnicos expressivos que destacaram-me, como: 
-- 100% de operacionalidade nas aplicações das Provas Paulistas, realizadas bimestralmente, com gerenciamento completo do ambiente, rede e contingências. Também conquistei 91% de autonomia digital da equipe escolar, por meio de treinamentos desenvolvidos para professores e alunos sobre ferramentas como Google Workspace, Windows, Microsoft Office e sistemas educacionais.
+- 100% de operacionalidade nas aplicações das Provas Paulistas, realizadas bimestralmente, com gerenciamento completo do ambiente, rede e contingências.
+- Também conquistei 91% de autonomia digital da equipe escolar, por meio de treinamentos desenvolvidos para professores e alunos sobre ferramentas como Google Workspace, Windows, Microsoft Office e sistemas educacionais.
+</p>
 <br>
+
+<p align="left">
+Tecnologias: **Coloque as linguagens que você desenvolve.**
 </p>
 
 <p align="left">  
