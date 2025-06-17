@@ -1,3 +1,18 @@
+<img src="./assets/image/image/fundo2.jpg" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+👋 Olá! Sou Dan Vasques. <br>
+Desenvolvedor Back-End, com foco em <strong>Java</strong>, <strong>SpringBoot</strong> e <strong>Git</strong>.
+<br>
+    
+Atuo há quase três anos como Professor de Apoio à Tecnologia da Informação, com foco em suporte técnico em TI, infraestrutura, manutenção de equipamentos, gestão de sistemas escolares e capacitação de usuários.
+<br>
+
+Obtive resultados técnicos expressivos que destacaram-me, como: 
+- 100% de operacionalidade nas aplicações das Provas Paulistas, realizadas bimestralmente, com gerenciamento completo do ambiente, rede e contingências. Também conquistei 91% de autonomia digital da equipe escolar, por meio de treinamentos desenvolvidos para professores e alunos sobre ferramentas como Google Workspace, Windows, Microsoft Office e sistemas educacionais.
+<br>
+</p>
+
 <p align="left">  
     <a href="https://danvasquesc.github.io/portfolio-dan"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/dan-vasques-carvalho"><img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge"></a>
@@ -5,7 +20,10 @@
     <a href="mailto:dan.vasques@outlook.com.br"><img src="https://img.shields.io/badge/-Email-FF4500?style=for-the-badge"></a>
 </p>
 
-<img src="./assets/image/image/fundo.jpg" width="100%">
+
+
+
+
 
 ## Sobre mim
 
