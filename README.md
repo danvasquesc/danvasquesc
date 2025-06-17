@@ -1,7 +1,7 @@
 <img src="./assets/image/image/fundo2.jpg" min-width="400px" max-width="400px" width="400px" align="right">
 
+### 👋 Olá! Sou Dan Vasques <br>
 <p align="left"> 
-👋 Olá! Sou Dan Vasques. <br>
 Desenvolvedor Back-End, com foco em <strong>Java</strong>, <strong>SpringBoot</strong> e <strong>Git</strong>.
 <br>
     
@@ -32,7 +32,7 @@ Obtive resultados técnicos expressivos que destacaram-me, como:
 </p>
 
 <p align="left">
-  💌 Entre em contato: ⤵️
+<strong>Entre em contato</strong> ⤵️
 </p>
 <p align="left">  
     <a href="https://danvasquesc.github.io/portfolio-dan"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge"></a>
