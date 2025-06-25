@@ -2,17 +2,11 @@
 
 ### 👋 Olá! Sou Dan Vasques <br>
 <p align="left"> 
-Desenvolvedor Back-End, com foco em <strong>Java</strong>, <strong>SpringBoot</strong> e <strong>Git</strong>.
-<br>
-    
-Atuo há quase três anos como Professor de Apoio à Tecnologia da Informação, com foco em suporte técnico em TI, infraestrutura, manutenção de equipamentos, gestão de sistemas escolares e capacitação de usuários.
-<br>
+Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> (3º semestre), com conhecimentos em <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>HTML</strong>, <strong>CSS</strong> e <strong>Git</strong>. Atualmente desenvolvendo <strong>projeto de extensão acadêmica</strong> com aplicação prática na escola onde atuo, voltado ao <strong>ensino de programação</strong>, formatação e manutenção de computadores para +60 alunos. Possuo quase três anos de experiência como Professor de Apoio à Tecnologia da Informação, atuando com suporte técnico, infraestrutura de TI, gestão de sistemas escolares e capacitação de usuários.
 
-Obtive resultados técnicos expressivos que destacaram-me, como: 
-- <strong>100% de operacionalidade</strong> nas aplicações das Provas Paulistas, realizadas bimestralmente, com gerenciamento completo do ambiente, rede e contingências.
-- Também conquistei <strong>91% de autonomia digital</strong> da equipe escolar, por meio de treinamentos desenvolvidos para professores e alunos sobre ferramentas como Google Workspace, Windows, Microsoft Office e sistemas educacionais.
-</p>
-<br>
+<strong>Destaques:
+- 100% de operacionalidade</strong> nas Provas Paulistas, com gerenciamento completo do ambiente digital;
+- <strong>91% de autonomia digital</strong> da equipe escolar, resultado de treinamentos em Google Workspace, Windows, Office e sistemas educacionais.
 
 <p align="left">
 <strong>Tecnologias</strong> 
