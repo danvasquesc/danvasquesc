@@ -1,12 +1,10 @@
-<img src="./assets/image/image/fundo2.jpg" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./assets/image/image/fundo2.jpg" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### 👋 Olá! Sou Dan Vasques <br>
 <p align="left"> 
-Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> (3º semestre), com conhecimentos em <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>HTML</strong>, <strong>CSS</strong> e <strong>Git</strong>. Atualmente desenvolvendo <strong>projeto de extensão acadêmica</strong> com aplicação prática na escola onde atuo, voltado ao <strong>ensino de programação</strong>, formatação e manutenção de computadores para +60 alunos. Possuo quase três anos de experiência como Professor de Apoio à Tecnologia da Informação, atuando com suporte técnico, infraestrutura de TI, gestão de sistemas escolares e capacitação de usuários.
+Graduando em Análise e Desenvolvimento de Sistemas com foco em Java, Spring Boot, lógica de programação e Git. Atualmente, atuo como Professor de Apoio à Tecnologia da Informação em escola pública, liderando manutenção de equipamentos, infraestrutura de TI e treinamentos para usuários, com impacto direto em +800 alunos e +160 dispositivos.
 
-<strong>Destaques:
-- 100% de operacionalidade</strong> nas Provas Paulistas, com gerenciamento completo do ambiente digital;
-- <strong>91% de autonomia digital</strong> da equipe escolar, resultado de treinamentos em Google Workspace, Windows, Office e sistemas educacionais.
+Também desenvolvo um projeto de extensão voltado à iniciação tecnológica de jovens, promovendo aulas práticas de programação, formatação e montagem de computadores. Entre os resultados alcançados, destaco 100% de funcionamento tecnológico em avaliações estaduais e aumento de 91% na autonomia digital da equipe escolar.
 
 <p align="left">
 <strong>Tecnologias</strong> 
