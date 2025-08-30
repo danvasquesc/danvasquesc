@@ -2,9 +2,10 @@
 
 ### 👋 Olá! Sou Dan Vasques <br>
 <p align="left"> 
-Graduando em Análise e Desenvolvimento de Sistemas com foco em Java, Spring Boot, lógica de programação e Git. Atualmente, atuo como Professor de Apoio à Tecnologia da Informação em escola pública, liderando manutenção de equipamentos, infraestrutura de TI e treinamentos para usuários, com impacto direto em +800 alunos e +160 dispositivos.
-
-Também desenvolvo um projeto de extensão voltado à iniciação tecnológica de jovens, promovendo aulas práticas de programação, formatação e montagem de computadores. Entre os resultados alcançados, destaco 100% de funcionamento tecnológico em avaliações estaduais e aumento de 91% na autonomia digital da equipe escolar.
+Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong>, possuo base sólida em lógica de programação, orientação a objetos, Java, Spring Boot e Git, por meio de projetos acadêmicos e pessoais. <br>
+Atualmente desenvolvo um <strong>projeto de extensão</strong> voltado à iniciação tecnológica para +60 alunos, com aulas práticas de programação, formatação e montagem de computadores. <br>
+Atuo como Professor de Apoio à Tecnologia da Informação, onde lidero ações práticas envolvendo manutenção, gestão da infraestrutura de TI e treinamentos de usuários, com impacto direto em <strong>+800 alunos</strong> e <strong>160 equipamentos</strong>+. <br>
+Entre os resultados alcançados, destaco <strong>100% de funcionamento</strong> tecnológico durante avaliações estaduais e aumento em <strong>91% da autonomia digital</strong> da equipe escolar.
 
 <p align="left">
 <strong>Tecnologias</strong> 
