@@ -2,10 +2,11 @@
 
 ### 👋 Olá! Sou Dan Vasques <br>
 <p align="left"> 
-Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong>, possuo base sólida em lógica de programação, orientação a objetos, Java, Spring Boot e Git, por meio de projetos acadêmicos e pessoais. <br>
-Atualmente desenvolvo um <strong>projeto de extensão</strong> voltado à iniciação tecnológica para +60 alunos, com aulas práticas de programação, formatação e montagem de computadores. <br>
-Atuo como Professor de Apoio à Tecnologia da Informação, onde lidero ações práticas envolvendo manutenção, gestão da infraestrutura de TI e treinamentos de usuários, com impacto direto em <strong>+800 alunos</strong> e <strong>160 equipamentos</strong>+. <br>
-Entre os resultados alcançados, destaco <strong>100% de funcionamento</strong> tecnológico durante avaliações estaduais e aumento em <strong>91% da autonomia digital</strong> da equipe escolar.
+Graduando em Análise e Desenvolvimento de Sistemas, possuo conhecimento em <strong>Java, Spring Boot, HTML5 e CSS3 e Git</strong>, por meio de projetos acadêmicos e pessoais. <br>
+Atualmente desenvolvo um <strong>projeto de extensão</strong> voltado à iniciação tecnológica para <strong>+60 alunos</strong>, com aulas práticas de programação, formatação e montagem de computadores. <br>
+Também atuo como Professor de Apoio à Tecnologia da Informação, onde coordeno ações práticas envolvendo manutenção, gestão da infraestrutura de TI e treinamentos de usuários, com impacto direto em <strong>+800 alunos e +160 equipamentos</strong>. <br>
+    
+- Entre os resultados alcançados, destaco <strong>100% de funcionamento tecnológico</strong> durante avaliações estaduais e aumento em <strong>91% da autonomia digital</strong> da equipe escolar.
 
 <p align="left">
 <strong>Tecnologias</strong> 
@@ -17,11 +18,10 @@ Entre os resultados alcançados, destaco <strong>100% de funcionamento</strong> 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-    
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </p>
 
 <p align="left">
