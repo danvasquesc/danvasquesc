@@ -31,6 +31,7 @@
 
 ### 🛠️ Tools & IDEs
 <div style="display: inline_block"> 
+  <img align="center" alt="Linux" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;
   <img align="center" alt="Git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
   <img align="center" alt="Eclipse" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">&nbsp;
   <img align="center" alt="Vscode" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;
