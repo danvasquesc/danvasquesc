@@ -19,14 +19,13 @@
 <div style="display: inline_block">
   <img align="center" alt="Java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;
   <img align="center" alt="SpringBoot" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;
-  <img align="center" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
 </div> <br>
 
 ### 🖥️ Frontend
 <div style="display: inline_block"> 
-  <img align="center" alt="Javascript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
   <img align="center" alt="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
   <img align="center" alt="CSS3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
+  <img align="center" alt="Javascript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
 </div> <br>
 
 ### 🛠️ Tools & IDEs
