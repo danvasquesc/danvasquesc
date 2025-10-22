@@ -1,10 +1,10 @@
-<img src="./assets/image/image/fundo-linha.png">
+<img src="./assets/image/image/fundo.png">
 
 ## 👋 Olá! Sou Dan Vasques <br>
 
 🎓 **Análise e Desenvolvimento de Sistemas - UNIMAR** | 4º Semestre <br>
-💻 Desenvolvedor Backend Java | Spring Boot <br>
-📝 Coordeno **projeto de extensão** como Professor de Apoio à Tecnologia da Informação, lecionando práticas de **programação** e manutenção de computadores. <br>
+💻 Desenvolvedor Full Stack Java | Spring Boot | HTML/CSS | Javascript | Git | Linux <br>
+📝 Coordeno **projeto de extensão** como Professor de Apoio à Tecnologia da Informação, ministrando práticas de **programação** e manutenção de computadores. <br>
 
 ### Entre em contato
 <p>  
