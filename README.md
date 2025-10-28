@@ -8,9 +8,8 @@
 
 ### Entre em contato
 <p>  
-    <a href="https://danvasquesc.github.io/portfolio-dan"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge"></a>
+    <a href="https://danvasquesc.github.io/portfolio-profissional/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/dan-vasques-carvalho"><img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge"></a>
-    <a href="https://danvasquesc.github.io/portfolio-dan/src/docs/Dan_Vasques_Carvalho_Estagio_TI.pdf"><img src="https://img.shields.io/badge/Curriculo-FF4500?style=for-the-badge"></a>
     <a href="mailto:dan.vasques@outlook.com.br"><img src="https://img.shields.io/badge/-Email-FF4500?style=for-the-badge"></a>
 </p>
 
