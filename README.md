@@ -1,17 +1,8 @@
-<img src="./assets/image/image/fundo.png">
+### Olá! Sou o Dan Vasques 👋 <br>
 
-## 👋 Olá! Sou Dan Vasques <br>
+:computer: Sou Analista de Suporte Técnico em TI N1/N2 | Desenvolvedor Backend Java <br>
 
-🎓 **Análise e Desenvolvimento de Sistemas - UNIMAR** | 4º Semestre <br>
-💻 Desenvolvedor Full Stack Java | Spring Boot | HTML/CSS | Javascript | Git | Linux <br>
-📝 Coordeno **projeto de extensão** como Professor de Apoio à Tecnologia da Informação, ministrando práticas de **programação** e manutenção de computadores. <br>
-
-### Entre em contato
-<p>  
-    <a href="https://danvasquesc.github.io/portfolio-profissional/"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge"></a>
-    <a href="https://www.linkedin.com/in/dan-vasques-carvalho"><img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge"></a>
-    <a href="mailto:dan.vasques@outlook.com.br"><img src="https://img.shields.io/badge/-Email-FF4500?style=for-the-badge"></a>
-</p>
+📧 Contate-me por e-mail: dan.vasques@outlook.com.br 
 
 ### Stacks
 ### ⚙️ Backend
