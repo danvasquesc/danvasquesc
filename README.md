@@ -1,44 +1,89 @@
 ### Olá! Sou o Dan Vasques 👋 <br>
 
-:computer: Sou Analista de Suporte Técnico em TI N1/N2 | Desenvolvedor Backend Java <br>
+:computer: Analista de Suporte Técnico em TI N1/N2 | Desenvolvedor Backend Java <br>
 
-📧 Contate-me por e-mail: dan.vasques@outlook.com.br 
+📧 Contate-me por e-mail: dan.vasques@outlook.com.br <br>
+📧 Contate-me por LinkedIn: https://www.linkedin.com/in/dan-vasques-carvalho/
 
-### Stacks
-### ⚙️ Backend
-<div style="display: inline_block">
-  <img align="center" alt="Java" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;
-  <img align="center" alt="SpringBoot" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;
-</div> <br>
-
-### 🖥️ Frontend
-<div style="display: inline_block"> 
-  <img align="center" alt="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
-  <img align="center" alt="CSS3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
-  <img align="center" alt="Javascript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;
-</div> <br>
-
-### 🛠️ Tools & IDEs
-<div style="display: inline_block"> 
-  <img align="center" alt="Linux" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">&nbsp;
-  <img align="center" alt="Git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;
-  <img align="center" alt="Eclipse" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">&nbsp;
-  <img align="center" alt="Vscode" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp;
-  <img align="center" alt="Trello" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">&nbsp;
-  <img align="center" alt="Notion" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">&nbsp;
-  <img align="center" alt="Canva" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">&nbsp;
-</div> 
+<br> 
 
 <br>
 
-### Principais Projetos
-| Prioridade |    Projetos                                       | Tecnologias                                           |
-|   :---:    |     :---                                          |          :---                                   |
-|    1º      | [Prática em Java][1]                | <img align="center" alt="Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;   <img align="center" alt="Eclipse" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">&nbsp;   <img align="center" alt="Git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp;   <img align="center" alt="Notion" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">&nbsp; |
-|    2º      | [Vasques Tech][2] | <img align="center" alt="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; <img align="center" alt="CSS3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; <img align="center" alt="Javascript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp; <img align="center" alt="Git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">&nbsp; <img align="center" alt="Vscode" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">&nbsp; | 
+<p align="left">
+  <em>⚙️ Backend</em>
+</p>
 
-[1]: https://github.com/danvasquesc/exercicios_java
-[2]: https://github.com/danvasquesc/vasques-tech
+<p align="left">
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg'/>
+</p>
+
+<br> 
+
+<p align="left">
+  <em>🖥️ Frontend</em>
+</p>
+
+<p align="left">
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'/>
+</p>
+
+<br> 
+
+<p align="left">
+  <em>🛠️ Tools</em>
+</p>
+
+<p align="left">
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg'/>
+</p>
+
+<br>
+
+## Experiência Profissional
+
+[<img align="left" height="50px" width="50px" alt="SEESP" src="./assets/image/image/see.png"/>](https://www.educacao.sp.gov.br/educacao)
+
+[**Analista de Suporte Técnico em TI**](https://www.linkedin.com/in/dan-vasques-carvalho/) \
+Secretaria da Educação do Estado de São Paulo\
+Março de 2023 - o momento · +3 anos \
+`Suporte Técnico N1/N2`, `Troubleshooting`, `M365`, `Google Workspace`\
+
+<br>
+
+## Projeto Acadêmico
+
+[<img align="left" height="50px" width="50px" alt="SEESP" src="./assets/image/image/see.png"/>](https://www.educacao.sp.gov.br/educacao)
+
+[**Capacitador e Instrutor em Iniciação Tecnológica**](https://www.linkedin.com/in/dan-vasques-carvalho/) \
+Secretaria da Educação do Estado de São Paulo\
+Agosto de 2025 - Novembro de 2025 · 4 meses \
+`Python`, `Infraestrutura de TI`, `Hardware`, `Software`\
+
+<br>
+
+## Formação acadêmica
+
+<img align="left" height="50px" width="50px" alt="Unimar" src="./assets/image/image/unimar.png"/>
+
+**Análise e Desenvolvimento de Sistemas**\
+UNIMAR - Universidade de Marília \
+Abril de 2024 - o momento
+
+<img align="left" height="50px" width="50px" alt="Unesp" src="./assets/image/image/unesp.png"/>
+
+**Ciências Sociais**\
+UNESP - Universidade Estadual Paulista \
+Fevereiro de 2019 - Fevereiro de 2024
 
 <br>
 
