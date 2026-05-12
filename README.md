@@ -1,6 +1,6 @@
 ### Olá! Sou o Dan Vasques 👋 <br>
 
-:computer: Analista de Suporte Técnico em TI N1/N2 | Desenvolvedor Backend Java <br>
+:computer: Analista de Suporte Técnico em TI N1/N2 | Desenvolvedor Java <br>
 
 📧 Contate-me por e-mail: dan.vasques@outlook.com.br <br>
 📧 Contate-me por LinkedIn: https://www.linkedin.com/in/dan-vasques-carvalho/
