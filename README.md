@@ -89,7 +89,30 @@ Fevereiro de 2019 - Fevereiro de 2024
 
 ## Formação Complementar
 
+<img align="left" height="50px" width="50px" alt="FAT" src="./assets/image/image/fat.png"/>
 
+**Curso de Arquitetura de Sistemas**\
+Fundação FAT (120h) · 2026
+
+<img align="left" height="50px" width="50px" alt="DPOnet" src="./assets/image/image/dponet.png"/>
+
+**Certificado em Privacidade e Proteção de Dados Pessoais**\
+DPOnet (11h) · 2025
+
+<img align="left" height="50px" width="50px" alt="IE-University" src="./assets/image/image/ie-university.png"/>
+
+**Certificado em E-Commerce e Gestão Comercial**\
+IE Universy (6h) · 2024
+
+<img align="left" height="50px" width="50px" alt="Unimar" src="./assets/image/image/unimar.png"/>
+
+**Minicurso de Inglês Básico**\
+Universidade de Marília (20h) · 2024
+
+<img align="left" height="50px" width="50px" alt="Unimar" src="./assets/image/image/unimar.png"/>
+
+**Minicurso de Gestão de Tempo**\
+Universidade de Marília (20h) · 2024
 
 
 #### Feito por [Dan!](https://github.com/danvasquesc) ✨
