@@ -41,10 +41,13 @@
 
 <p align="left">
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg'/>
+    <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows/windows-original.svg" />
 </p>
 
 <br>
@@ -56,18 +59,20 @@
 [**Analista de Suporte Técnico em TI**](https://www.linkedin.com/in/dan-vasques-carvalho/) \
 Secretaria da Educação do Estado de São Paulo\
 Março de 2023 - o momento · +3 anos \
-`Suporte Técnico N1/N2`, `Troubleshooting`, `M365`, `Google Workspace`\
+`Suporte Técnico N1/N2`, `Troubleshooting`, `M365`, `Google Workspace`
 
 <br>
 
-## Projeto Acadêmico
+## Projetos
 
 [<img align="left" height="50px" width="50px" alt="SEESP" src="./assets/image/image/see.png"/>](https://www.educacao.sp.gov.br/educacao)
 
 [**Capacitador e Instrutor em Iniciação Tecnológica**](https://www.linkedin.com/in/dan-vasques-carvalho/) \
 Secretaria da Educação do Estado de São Paulo\
 Agosto de 2025 - Novembro de 2025 · 4 meses \
-`Python`, `Infraestrutura de TI`, `Hardware`, `Software`\
+`Python`, `Infraestrutura de TI`, `Hardware`, `Software`
+
+<!-- adicionar projeto vasques tech -->
 
 <br>
 
