@@ -41,13 +41,11 @@
 
 <p align="left">
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg'/>
-    <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows/windows-original.svg" />
 </p>
 
 <br>
