@@ -1,48 +1,31 @@
 ### Olá! Sou o Dan Vasques 👋 <br>
 
-:computer: Analista de Suporte Técnico em TI N1/N2 | Desenvolvedor Java <br>
+:computer: Analista de Sistemas e Desenvolvedor de Sistemas <br>
 
 📧 Contate-me por e-mail: dan.vasques@outlook.com.br <br>
 📧 Contate-me por LinkedIn: https://www.linkedin.com/in/dan-vasques-carvalho/
 
 <br> 
 
-<br>
-
 <p align="left">
-  <em>⚙️ Backend</em>
+  <em>🖥️ Stacks</em>
 </p>
 
 <p align="left">
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg'/>
-</p>
-
-<br> 
-
-<p align="left">
-  <em>🖥️ Frontend</em>
-</p>
-
-<p align="left">
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'/>
-</p>
-
-<br> 
-
-<p align="left">
-  <em>🛠️ Tools</em>
-</p>
-
-<p align="left">
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg'/>
-    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg'/>    
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png'/>
+    <img height="65" width="65" src='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg'/>
     <img height="65" width="65" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg'/>
@@ -51,6 +34,15 @@
 <br>
 
 ## Experiência Profissional
+
+[<img align="left" height="50px" width="50px" alt="CacauFoods" src="./assets/image/image/see.png"/>](https://www.educacao.sp.gov.br/educacao)
+
+[**Analista de Suporte Técnico em TI**](https://www.linkedin.com/in/dan-vasques-carvalho/) \
+Secretaria da Educação do Estado de São Paulo\
+Março de 2023 - o momento · +3 anos \
+`Suporte Técnico N1/N2`, `Troubleshooting`, `M365`, `Google Workspace`
+
+<br>
 
 [<img align="left" height="50px" width="50px" alt="SEESP" src="./assets/image/image/see.png"/>](https://www.educacao.sp.gov.br/educacao)
 
