@@ -35,12 +35,12 @@
 
 ## Experiência Profissional
 
-[<img align="left" height="50px" width="50px" alt="CacauFoods" src="./assets/image/image/see.png"/>](https://www.educacao.sp.gov.br/educacao)
+[<img align="left" height="50px" width="50px" alt="CacauFoods" src="./assets/image/image/cacau-foods-logo-png.png"/>](https://www.educacao.sp.gov.br/educacao)
 
-[**Analista de Suporte Técnico em TI**](https://www.linkedin.com/in/dan-vasques-carvalho/) \
-Secretaria da Educação do Estado de São Paulo\
-Março de 2023 - o momento · +3 anos \
-`Suporte Técnico N1/N2`, `Troubleshooting`, `M365`, `Google Workspace`
+[**Analista de Sistemas Jr**](https://www.linkedin.com/in/dan-vasques-carvalho/) \
+Cacau Foods do Brasil\
+Julho de 2026 - o momento \
+`ERP Totvs Protheus`, `Programação ADVPL`, `SQL Server`, `Versionamento SVN`, `T-Cloud`
 
 <br>
 
@@ -48,7 +48,7 @@ Março de 2023 - o momento · +3 anos \
 
 [**Analista de Suporte Técnico em TI**](https://www.linkedin.com/in/dan-vasques-carvalho/) \
 Secretaria da Educação do Estado de São Paulo\
-Março de 2023 - o momento · +3 anos \
+Março de 2023 - Julho de 2026 \
 `Suporte Técnico N1/N2`, `Troubleshooting`, `M365`, `Google Workspace`
 
 <br>
@@ -59,7 +59,7 @@ Março de 2023 - o momento · +3 anos \
 
 [**Capacitador e Instrutor em Iniciação Tecnológica**](https://www.linkedin.com/in/dan-vasques-carvalho/) \
 Secretaria da Educação do Estado de São Paulo\
-Agosto de 2025 - Novembro de 2025 · 4 meses \
+Agosto de 2025 - Novembro de 2025 \
 `Python`, `Infraestrutura de TI`, `Hardware`, `Software`
 
 <!-- adicionar projeto vasques tech -->
@@ -86,28 +86,33 @@ Fevereiro de 2019 - Fevereiro de 2024
 
 <img align="left" height="50px" width="50px" alt="FAT" src="./assets/image/image/fat.png"/>
 
-**Curso de Arquitetura de Sistemas**\
+**Formação em Aplicação de Banco de Dados SQL**\
+Fundação FAT (120h) · 2026
+
+<img align="left" height="50px" width="50px" alt="FAT" src="./assets/image/image/fat.png"/>
+
+**Formação em Arquitetura de Sistemas**\
 Fundação FAT (120h) · 2026
 
 <img align="left" height="50px" width="50px" alt="DPOnet" src="./assets/image/image/dponet.png"/>
 
 **Certificado em Privacidade e Proteção de Dados Pessoais**\
-DPOnet (11h) · 2025
+DPOnet · 2025
 
 <img align="left" height="50px" width="50px" alt="IE-University" src="./assets/image/image/ie-university.png"/>
 
 **Certificado em E-Commerce e Gestão Comercial**\
-IE Universy (6h) · 2024
+IE Universy · 2024
 
 <img align="left" height="50px" width="50px" alt="Unimar" src="./assets/image/image/unimar.png"/>
 
 **Minicurso de Inglês Básico**\
-Universidade de Marília (20h) · 2024
+Universidade de Marília · 2024
 
 <img align="left" height="50px" width="50px" alt="Unimar" src="./assets/image/image/unimar.png"/>
 
 **Minicurso de Gestão de Tempo**\
-Universidade de Marília (20h) · 2024
+Universidade de Marília · 2024
 
 
 #### Feito por [Dan!](https://github.com/danvasquesc) ✨
